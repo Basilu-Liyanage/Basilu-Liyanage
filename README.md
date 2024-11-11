@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I’m a software developer, Grade 8, Studying At L
 🔭 Currently working on Intelligent Vehicle Navigation to optimize and automate drive systems.
 🌱 Exploring machine learning and sensor integration for real-time decision-making in robotics.
 👨‍💻 Passionate about creating scalable solutions that blend AI with embedded systems.
+👨‍💻🌱 Holding the Worlds Top 10 Rank in Coding
 
 🔧 Technologies & Tools
 
