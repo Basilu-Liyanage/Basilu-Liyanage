@@ -1,5 +1,5 @@
 Hi there, I’m Basilu Liyanage 👋
-Welcome to my GitHub profile! I’m a software developer and tech enthusiast with a focus on autonomous systems and intelligent vehicle navigation.
+Welcome to my GitHub profile! I’m a software developer, Grade 8, Studying At Lyceum Int. School Wattala, Sri Lanka, and tech enthusiast with a focus on autonomous systems and intelligent vehicle navigation.
 
 🚀 About Me
 🔭 Currently working on Intelligent Vehicle Navigation to optimize and automate drive systems.
