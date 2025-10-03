@@ -18,4 +18,4 @@ Welcome to my GitHub profile! I’m a young programmer, Grade 9, Studying At Lyc
     
     📈 Projects
     Intelligent Vehicle Navigation: Designing navigation algorithms for efficient drive systems.
-    Security Car: An open-source project for autonomous surveillance using machine learning.
+    Self Driving Car: An open-source project for autonomous surveillance using machine learning.
